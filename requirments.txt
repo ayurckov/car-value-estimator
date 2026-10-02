@@ -1,0 +1,22 @@
+# Data Analysis
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+
+# Model Serialization & Utils
+joblib
+scipy
+
+# Jupyter Notebook
+ipykernel
+notebook
+
+
