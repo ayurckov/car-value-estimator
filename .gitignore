@@ -58,6 +58,9 @@ venv.bak/
 data/
 models/
 
+# Keep the small, reproducible public benchmark dataset in version control.
+!datasets/automobile.csv
+
 # Environmental variables / Secrets
 .env
 .env.*
